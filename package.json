@@ -1,0 +1,23 @@
+{
+  "name": "schema-twitch-bot",
+  "version": "0.0.1",
+  "description": "schema for twitch",
+  "main": "src/run.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shioridotdev/schema-twitch-bot.git"
+  },
+  "author": "shioridotdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shioridotdev/schema-twitch-bot/issues"
+  },
+  "homepage": "https://github.com/shioridotdev/schema-twitch-bot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "tmi.js": "^1.8.5"
+  }
+}
